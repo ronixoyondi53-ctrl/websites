@@ -1,4 +1,5 @@
-# User manual
+rm /data/data/com.termux/files/usr/bin/rish
+rm /data/data/com.termux/files/usr/bin/rish_shizuku.dex# User manual
 
 [[toc]]
 
